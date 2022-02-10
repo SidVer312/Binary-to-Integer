@@ -1,2 +1,2 @@
-# Bits-to-Integer
-a bits to integer c++ converter
+# Binary-to-Integer
+a binary to integer c++ converter
